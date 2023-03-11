@@ -9,10 +9,14 @@ echo "third line from online";
 
 echo "forth line from cli"
 
-echo "titi tr tr";
+	echo "titi tr tr";
 
 echo "fourth line from online";
 
+
 echo "fifth line from online";
+
+echo "fifth line from cli"
+
 
 ?>
