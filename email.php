@@ -15,4 +15,6 @@ echo "fifth line from cli";
 
 echo "this is testing";
 echo "this is test form git reposatory";
+
+echo "this is test form vs code";
 ?>
